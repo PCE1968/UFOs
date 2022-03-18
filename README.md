@@ -20,3 +20,4 @@ Then we can also filter further by city, here we chose Fresno.
 !["filter for fresno"](static/images/filter_for_fresno.png)
 
 ## Summary
+The filter have been employed and they are working as intended. One of the drawbacks, the user has to scroll through the list or guess, when choosing what to set the filters for. To solve this, we could use dropdown menus on the filter fields, to show available options based on the data in the table. Another recommendation is to add an option for reporting events, that can be vetted and upon confirmation, added to the table.
